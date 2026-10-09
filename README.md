@@ -21,8 +21,12 @@ Los videos 01 a 03 son introducción e instalación y el 12 es un avance del cur
 
 ```
 DS_Curso_EquipoB/
-├── notebooks/        # un notebook por video
-├── data/             # datos de apoyo (el curso no usa archivos externos)
+├── Integrantes de equipo/    # aportación de cada integrante: notebooks y README
+│   ├── Arturo/
+│   ├── Antonia/
+│   └── Jose_Carlos/          # (falta la carpeta de Ángel)
+├── notebooks/                # notebooks de todos juntos (se llena con los Pull Requests)
+├── data/                     # datos de apoyo (el curso no usa archivos externos)
 ├── requirements.txt
 └── README.md
 ```
