@@ -26,4 +26,4 @@ Crear la rama `feat/ejercicios-videos-08-09`, copiar los notebooks a `notebooks/
 Todas las celdas se ejecutaron en orden con Python 3.13 y NumPy 2.3. Las salidas están guardadas en los notebooks. Falta la prueba de clonado e integración del repositorio completo del equipo.
 
 ## Fuente
-Videos “CURSO DE NUMPY BASICO · como usar los números aleatorios” e “implementar ejes a las matrices”, canal Yacklyon. El código es el que presentó la integrante en sus audios; solo se agregó un título a cada notebook.
+Videos “CURSO DE NUMPY BASICO · como usar los números aleatorios” e “implementar ejes a las matrices”, canal Yacklyon. El código es el que presentó la integrante en sus audios; se agregaron un título y comentarios explicativos en cada notebook.
