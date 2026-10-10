@@ -17,6 +17,27 @@ Ejercicios del **Curso de NumPy con Python** (canal *yacklyon*), implementados e
 
 Los videos 01 a 03 son introducción e instalación y el 12 es un avance del curso de pandas; no tienen ejercicios de código.
 
+## Mapeo del curso
+
+La lista de reproducción tiene **12 videos** y **8 de ellos tienen ejercicios de código** (del 04 al 11):
+
+| Video | Tema | Ejercicios |
+|---|---|---|
+| 01 | Presentación | No |
+| 02 | Introducción | No |
+| 03 | Cómo instalar NumPy | No |
+| 04 | Listas o arrays (diferencias) | Sí |
+| 05 | Usar listas con arrays | Sí |
+| 06 | Usar funciones básicas en matrices | Sí |
+| 07 | Usar operaciones básicas con matrices | Sí |
+| 08 | Cómo usar los números aleatorios | Sí |
+| 09 | Implementar ejes a las matrices | Sí |
+| 10 | Funciones estadísticas | Sí |
+| 11 | Álgebra lineal con Python | Sí |
+| 12 | Avance del curso de pandas | No |
+
+El avance de cada video se sigue en los [Issues](https://github.com/arturoobedvt-ctrl/DS_Curso_EquipoB/issues) del repositorio, con las etiquetas `To Do`, `In Progress`, `Review` y `Done`.
+
 ## Estructura
 
 ```
