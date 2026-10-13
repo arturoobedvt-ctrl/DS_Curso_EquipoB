@@ -11,7 +11,7 @@ Ejercicios del **Curso de NumPy con Python** (canal *yacklyon*), implementados e
 | Integrante | Videos | Notebooks |
 |---|---|---|
 | Arturo Obed Velázquez Téllez | 04 y 05 | `04_listas_vs_arrays`, `05_listas_con_arrays` |
-| Ángel de Jesús González Molina | 06 y 07 | _pendiente_ |
+| Ángel de Jesús González Molina | 06 y 07 | `06_funciones_basicas_matrices`, `07_operaciones_basicas_matrices` |
 | Antonia Martínez Santos | 08 y 09 | `08_numeros_aleatorios`, `09_ejes_matrices` |
 | José Carlos Hernández Ballado | 10 y 11 | `Video_10_Funciones_Estadisticas`, `Video_11_Algebra_Lineal` |
 
@@ -45,7 +45,8 @@ DS_Curso_EquipoB/
 ├── Integrantes de equipo/    # aportación de cada integrante: notebooks y README
 │   ├── Arturo/
 │   ├── Antonia/
-│   └── Jose_Carlos/          # (falta la carpeta de Ángel)
+│   ├── Angel/
+│   └── Jose_Carlos/
 ├── notebooks/                # notebooks de todos juntos (se llena con los Pull Requests)
 ├── data/                     # datos de apoyo (el curso no usa archivos externos)
 ├── requirements.txt
